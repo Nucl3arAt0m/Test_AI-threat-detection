@@ -12,9 +12,9 @@ Test_AI-threat-detection is a proof-of-concept project developed to explore AI-d
 
 Python 3.8+
 Libraries:
-pandas
-scikit-learn
-numpy
+• pandas
+• scikit-learn
+• numpy
 
 
 Dataset: NSL-KDD (or similar network traffic dataset, not included in the repository)
