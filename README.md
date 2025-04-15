@@ -26,9 +26,4 @@ This project was tested with the NSL-KDD dataset, filtered for DoS and normal tr
 ## Acknowledgments
 • Inspired by open-source cybersecurity projects and the NSL-KDD dataset.
 • Built as a learning project to explore AI in threat detection.
-This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
-
-Inspired by open-source cybersecurity projects and the NSL-KDD dataset.
-Built as a learning project to explore AI in threat detection.
 
